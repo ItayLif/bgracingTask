@@ -4,6 +4,7 @@
 1. Python <= 3.12
 2. Jupyter Notebook
 3. Roboflow account
+4. OS- ubuntu 20.04 (optional)
 
 ### Installation and Running:
 1. clone the project to your machine.
