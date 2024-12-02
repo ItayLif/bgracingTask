@@ -26,4 +26,4 @@ The chosen trained model in the notebook is the best.pt, though there was only o
 The YOLOv5 repository contains a python script for object detection. The input of this script is the video to detect on, the weights of the model, and a confidence level.
 When a label (cone detection and color) receives a higher probability than the confidence level, the label is added to the video.
 The result video will be in the yolov5 directory under runs. 
-I added the [result-video]() to this repository for example.
+I added the [result-video](https://github.com/ItayLif/bgracingTask/blob/main/fsd1_result.mp4) to this repository for example.
